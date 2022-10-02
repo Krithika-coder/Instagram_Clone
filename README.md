@@ -7,3 +7,6 @@ learn a lot during these 7 days and it was an amazing experience learning with D
 <li>CSS
 <li>HTML
 <li>Front-End Development
+
+<p>Please find a snapshot of my Instagram Clone Website <img src="https://github.com/Krithika-coder/Instagram_Clone/blob/main/instaclonelink.jpg"/>
+</p>
